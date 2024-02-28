@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Material Date Picker Decorator</string>
+    <string name="cat_picker_day_view_decorator_dots_content_description">%s Dotted</string>
+
+</resources>
